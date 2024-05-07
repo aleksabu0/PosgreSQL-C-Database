@@ -1,0 +1,43 @@
+C:\Users\Aleksa\source\repos\DB Project PostgreSQL\DB Project PostgreSQL\bin\Debug\DB Project PostgreSQL.exe.config
+C:\Users\Aleksa\source\repos\DB Project PostgreSQL\DB Project PostgreSQL\bin\Debug\DB Project PostgreSQL.exe
+C:\Users\Aleksa\source\repos\DB Project PostgreSQL\DB Project PostgreSQL\bin\Debug\DB Project PostgreSQL.pdb
+C:\Users\Aleksa\source\repos\DB Project PostgreSQL\DB Project PostgreSQL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Aleksa\source\repos\DB Project PostgreSQL\DB Project PostgreSQL\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Aleksa\source\repos\DB Project PostgreSQL\DB Project PostgreSQL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Aleksa\source\repos\DB Project PostgreSQL\DB Project PostgreSQL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Aleksa\source\repos\DB Project PostgreSQL\DB Project PostgreSQL\bin\Debug\Npgsql.dll
+C:\Users\Aleksa\source\repos\DB Project PostgreSQL\DB Project PostgreSQL\bin\Debug\System.Buffers.dll
+C:\Users\Aleksa\source\repos\DB Project PostgreSQL\DB Project PostgreSQL\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Aleksa\source\repos\DB Project PostgreSQL\DB Project PostgreSQL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Aleksa\source\repos\DB Project PostgreSQL\DB Project PostgreSQL\bin\Debug\System.Memory.dll
+C:\Users\Aleksa\source\repos\DB Project PostgreSQL\DB Project PostgreSQL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Aleksa\source\repos\DB Project PostgreSQL\DB Project PostgreSQL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Aleksa\source\repos\DB Project PostgreSQL\DB Project PostgreSQL\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Aleksa\source\repos\DB Project PostgreSQL\DB Project PostgreSQL\bin\Debug\System.Text.Json.dll
+C:\Users\Aleksa\source\repos\DB Project PostgreSQL\DB Project PostgreSQL\bin\Debug\System.Threading.Channels.dll
+C:\Users\Aleksa\source\repos\DB Project PostgreSQL\DB Project PostgreSQL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Aleksa\source\repos\DB Project PostgreSQL\DB Project PostgreSQL\bin\Debug\System.ValueTuple.dll
+C:\Users\Aleksa\source\repos\DB Project PostgreSQL\DB Project PostgreSQL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Aleksa\source\repos\DB Project PostgreSQL\DB Project PostgreSQL\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Aleksa\source\repos\DB Project PostgreSQL\DB Project PostgreSQL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Aleksa\source\repos\DB Project PostgreSQL\DB Project PostgreSQL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Aleksa\source\repos\DB Project PostgreSQL\DB Project PostgreSQL\bin\Debug\Npgsql.xml
+C:\Users\Aleksa\source\repos\DB Project PostgreSQL\DB Project PostgreSQL\bin\Debug\System.Buffers.xml
+C:\Users\Aleksa\source\repos\DB Project PostgreSQL\DB Project PostgreSQL\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Aleksa\source\repos\DB Project PostgreSQL\DB Project PostgreSQL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Aleksa\source\repos\DB Project PostgreSQL\DB Project PostgreSQL\bin\Debug\System.Memory.xml
+C:\Users\Aleksa\source\repos\DB Project PostgreSQL\DB Project PostgreSQL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Aleksa\source\repos\DB Project PostgreSQL\DB Project PostgreSQL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Aleksa\source\repos\DB Project PostgreSQL\DB Project PostgreSQL\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Aleksa\source\repos\DB Project PostgreSQL\DB Project PostgreSQL\bin\Debug\System.Text.Json.xml
+C:\Users\Aleksa\source\repos\DB Project PostgreSQL\DB Project PostgreSQL\bin\Debug\System.Threading.Channels.xml
+C:\Users\Aleksa\source\repos\DB Project PostgreSQL\DB Project PostgreSQL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Aleksa\source\repos\DB Project PostgreSQL\DB Project PostgreSQL\bin\Debug\System.ValueTuple.xml
+C:\Users\Aleksa\source\repos\DB Project PostgreSQL\DB Project PostgreSQL\obj\Debug\DB Project PostgreSQL.csprojAssemblyReference.cache
+C:\Users\Aleksa\source\repos\DB Project PostgreSQL\DB Project PostgreSQL\obj\Debug\DB_Project_PostgreSQL.MainForm.resources
+C:\Users\Aleksa\source\repos\DB Project PostgreSQL\DB Project PostgreSQL\obj\Debug\DB_Project_PostgreSQL.Properties.Resources.resources
+C:\Users\Aleksa\source\repos\DB Project PostgreSQL\DB Project PostgreSQL\obj\Debug\DB Project PostgreSQL.csproj.GenerateResource.cache
+C:\Users\Aleksa\source\repos\DB Project PostgreSQL\DB Project PostgreSQL\obj\Debug\DB Project PostgreSQL.csproj.CoreCompileInputs.cache
+C:\Users\Aleksa\source\repos\DB Project PostgreSQL\DB Project PostgreSQL\obj\Debug\DB Project PostgreSQL.csproj.CopyComplete
+C:\Users\Aleksa\source\repos\DB Project PostgreSQL\DB Project PostgreSQL\obj\Debug\DB Project PostgreSQL.exe
+C:\Users\Aleksa\source\repos\DB Project PostgreSQL\DB Project PostgreSQL\obj\Debug\DB Project PostgreSQL.pdb
